@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/calculator-from-scratch/static/css/main.217c9bfc.css",
+    "main.js": "/calculator-from-scratch/static/js/main.dc915db9.js",
+    "index.html": "/calculator-from-scratch/index.html",
+    "main.217c9bfc.css.map": "/calculator-from-scratch/static/css/main.217c9bfc.css.map",
+    "main.dc915db9.js.map": "/calculator-from-scratch/static/js/main.dc915db9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.217c9bfc.css",
+    "static/js/main.dc915db9.js"
+  ]
+}
