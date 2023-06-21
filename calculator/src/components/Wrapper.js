@@ -1,1 +1,7 @@
-  Wrapper.css Screen.js Screen.css ButtonBox.js ButtonBox.css Button.js Button.css
+import "./Wrapper.css";
+
+const Wrapper = ({ children }) => {
+  return <div className="wrapper">{children}</div>;
+};
+
+export default Wrapper;
